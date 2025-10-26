@@ -4,7 +4,7 @@ A robust ticket management web application built with Vue, featuring authenticat
 
 ## Live Demo
 
-**[View Live Demo](https://odusami.github.io/Ednut-Ticket-React/)**
+**[View Live Demo](https://odusami.github.io/Ednut-Ticket-Vue/)**
 
 # Features
 
